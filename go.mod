@@ -1,4 +1,4 @@
-module mapper
+module github.com/ANSN7/mapper
 
 go 1.19
 
